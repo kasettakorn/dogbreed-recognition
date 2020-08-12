@@ -3,7 +3,7 @@
  <img width=300px height=300px style="border-radius: 50%;" src="https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=720&q=80" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Dog breed Recognition - ระบบรู้จำพันธุ์สุนัข 🦮</h3>
+<h3 align="center">🦮 Dog breed Recognition - ระบบรู้จำพันธุ์สุนัข 🦮</h3>
 
 <div align="center">
 
