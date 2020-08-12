@@ -8,7 +8,6 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
@@ -33,16 +32,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
+1. Python 3 or later
+2. Python following libraries tensorflow opencv-contrib-python h5py numpy scipy pillow matplotlib keras
+3. GPU runtime is recommend
 
 
 ## 🎈 Usage <a name="usage"></a>
 
-Using following command "python app.py"
+Using following command "python app.py" or run all for Jupiter Notebook or Google Colaboratory
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
